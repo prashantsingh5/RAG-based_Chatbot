@@ -1,6 +1,3 @@
-# RAG-based_Chatbot
-
-
 # PDF Chat App 📝📚
 
 This project is a **Streamlit-based application** that allows users to upload a PDF document, ask questions about its content, and get context-aware answers. It uses **LangChain**, **Google Generative AI**, and a **Retrieval-Augmented Generation (RAG)** pipeline to achieve highly accurate and contextual responses.
