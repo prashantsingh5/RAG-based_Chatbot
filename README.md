@@ -87,8 +87,16 @@ pdf-chat-app/
 
 | **Timestamp**           | **PDF Name**    | **Question**            | **Answer**             |
 |--------------------------|-----------------|-------------------------|------------------------|
-| 10-01-2025  12:37:49     | yolov9_paper.pdf  | what is Auxiliary Supervision? | Auxiliary supervision is a common method that uses relevant meta-information to guide the feature maps produced by the intermediate layers, giving them the properties needed for target tasks.  Examples include using segmentation loss or depth loss to improve the accuracy of object detectors.  Deep supervision is the most common type of auxiliary supervision.  It inserts additional prediction layers in the middle layers for training, such as the application of multi-layer decoders in transformer-based methods.
- |
+| 10-01-2025  12:37:49     | yolov9_paper.pdf  | what is Auxiliary Supervision? | Auxiliary supervision is a common method that uses relevant meta-information to guide the feature maps produced by the intermediate layers, giving them the properties needed for target tasks.  Examples include using segmentation loss or depth loss to improve the accuracy of object detectors.  Deep supervision is the most common type of auxiliary supervision.  It inserts additional prediction layers in the middle layers for training, such as the application of multi-layer decoders in transformer-based methods.|
+
+---
+
+## Streamlit Output🙌
+
+![WhatsApp Image 2025-01-10 at 12 41 52_c9daaba1](https://github.com/user-attachments/assets/049addd1-cb29-4025-9666-fc2d09c1a44e)
+
+![WhatsApp Image 2025-01-10 at 12 41 52_4ac690aa](https://github.com/user-attachments/assets/90b2d1bb-409b-4354-9fff-181312af22f9)
+
 
 ---
 
