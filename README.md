@@ -44,8 +44,8 @@ This project is a **Streamlit-based application** that allows users to upload a 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo-name/pdf-chat-app.git
-   cd pdf-chat-app
+   [git clone https://github.com/your-repo-name/pdf-chat-app.git](https://github.com/prashantsingh5/RAG-based_Chatbot.git)
+   cd RAG-based_Chatbot
    ```
 
 2. Start the Streamlit application:
@@ -62,10 +62,9 @@ This project is a **Streamlit-based application** that allows users to upload a 
 
 ```
 pdf-chat-app/
-├── app.py                 # Main application file
+├── proj4.py                 # Main application file
 ├── requirements.txt       # Python dependencies
 ├── record.csv             # Logs conversations with timestamps (generated after interaction)
-├── .env                   # API keys and environment variables
 └── README.md              # Project documentation
 ```
 
@@ -113,14 +112,3 @@ pdf-chat-app/
 
 ---
 
-## License 📜
-
-This project is licensed under the **MIT License**.
-
----
-
-## Acknowledgements 🙌
-
-Special thanks to the teams behind **LangChain**, **Streamlit**, and **Google Generative AI** for their amazing tools and resources.
-
----
