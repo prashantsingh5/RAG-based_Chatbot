@@ -1,3 +1,13 @@
+# ⚠️ Project Archived 
+
+This repository has been merged into a larger system. 
+
+👉 New repository: https://github.com/prashantsingh5/multimodal-rag-ai-assistant 
+
+This repo is kept only for reference and is no longer maintained.
+
+---
+
 # PDF Chat App 📝📚
 
 This project is a **Streamlit-based application** that allows users to upload a PDF document, ask questions about its content, and get context-aware answers. It uses **LangChain**, **Google Generative AI**, and a **Retrieval-Augmented Generation (RAG)** pipeline to achieve highly accurate and contextual responses.
