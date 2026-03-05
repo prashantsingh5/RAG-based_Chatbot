@@ -2,7 +2,9 @@
 
 This repository has been merged into a larger system. 
 
-👉 New repository: https://github.com/prashantsingh5/multimodal-rag-ai-assistant 
+👉 New repository: 
+
+https://github.com/prashantsingh5/multimodal-rag-ai-assistant 
 
 This repo is kept only for reference and is no longer maintained.
 
